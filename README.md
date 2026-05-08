@@ -61,5 +61,4 @@ This portfolio was created to present my skills, projects, and experience profes
 
 Poornima P
 
-Poornima P
-Software Engineer
+
