@@ -32,7 +32,7 @@ A modern and responsive personal portfolio website developed to showcase my prof
 - Spring Data JPA
 - MySQL
 
-Portfolio  Backend source code: https://github.com/Poornima-2011/portfolio-backend/tree/main/src/main
+Portfolio  Backend source code: https://github.com/Poornima-2011/portfolio-backend/tree/main/src/main/java/com/example/portfolio
 
 ## 📂 Project Structure
 
