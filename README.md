@@ -34,7 +34,6 @@ A modern and responsive personal portfolio website developed to showcase my prof
 
 ## 📂 Project Structure
 
-```text
 frontend/
  ├── index.html
  ├── style.css
@@ -48,11 +47,12 @@ backend/
  └── application.properties
 
 📬 Contact Form Workflow
-User enters name, email, and message.
-JavaScript sends data using Fetch API.
-Spring Boot REST API receives request.
-Data is stored in MySQL database.
-Success message shown to user.
+1. User enters name, email, and message.
+2. JavaScript sends data using Fetch API.
+3. Spring Boot REST API receives request.
+4. Data is stored in MySQL database.
+5. Success message shown to user.
+
 🎯 Purpose of Project
 
 This portfolio was created to present my skills, projects, and experience professionally for recruiters and job opportunities.
